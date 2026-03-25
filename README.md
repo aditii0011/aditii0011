@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditi;Aspiring+Full+Stack+Developer;B.Tech+CSE+%7C+6th+Semester" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditi;Aspiring+Full+Stack+Developer;B.Tech+CSE+%7C+Pursuing" alt="Typing SVG" />
 
 <p>
   <a href="https://aditiverma.onrender.com" target="_blank">
@@ -18,8 +18,10 @@
 
 ### About Me
 
+I'm a Computer Science student on a mission to become a full stack software developer. I enjoy working across the stack — writing efficient logic in C++ and Python, structuring data with SQL, and eventually tying it all together into polished user-facing products.
+
 ```text
-Degree     →  B.Tech Computer Science · 6th Semester
+Degree     →  B.Tech Computer Science · Pursuing
 Focus      →  Full Stack Development
 Status     →  Open to Internships & Collaborations
 ```
@@ -45,15 +47,13 @@ Status     →  Open to Internships & Collaborations
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditii0011&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&rank_icon=github" width="47%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditii0011&layout=donut&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditii0011&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="47%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditii0011&layout=donut&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="37%" />
 </div>
 
 ---
 
-<div align="center">
-  <sub>Let's build something great. 🚀</sub>
-</div>
+### Pinned Highlights
+
+> ⭐ Pin your best 2–3 projects below via GitHub's **"Customize your pins"** option on your profile — let your work speak for itself.
