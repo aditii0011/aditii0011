@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditi;Aspiring+Full+Stack+Developer;B.Tech+CSE+%7C+Pursuing" alt="Typing SVG" />
 
 <p>
-  <a href="https://aditiverma.onrender.com" target="_blank">
+  <a href="https://aditiiverma.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-aditiverma.onrender.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
