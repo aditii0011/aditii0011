@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://aditiiverma.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-aditiverma.onrender.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-aditiiverma.onrender.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/aditi-verma-420039294" target="_blank">
