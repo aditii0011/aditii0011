@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditi;Aspiring+Full+Stack+Developer;B.Tech+CSE+%7C+Pursuing" alt="Typing SVG" />
+# Aditi Verma
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Turning+Logic+into+Software;C%2B%2B+%7C+Python+%7C+SQL;Aspiring+Developer;Strengthening+Data+Structures+%26+Algorithms;Learning+ML+and+AI" alt="Typing SVG" />
 
 <p>
   <a href="https://aditiiverma.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-aditiiverma.onrender.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-aditiiverma.onrender.com-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/aditi-verma-420039294" target="_blank">
@@ -16,36 +18,40 @@
 
 ---
 
-### About Me
+## Profile
 
-I'm a Computer Science student on a mission to become a full stack software developer. I enjoy working across the stack — writing efficient logic in C++ and Python, structuring data with SQL, and eventually tying it all together into polished user-facing products.
+I am a Computer Science student pursuing my B.Tech, with a strong focus on building efficient logic through **C++, Python, and SQL**, and applying that foundation to **Machine Learning**. I enjoy solving problems at the intersection of core software development and data-driven systems, and I'm continuously working on strengthening both my algorithmic thinking and my ML fundamentals.
 
 ```text
 Degree     →  B.Tech Computer Science · Pursuing
-Focus      →  Full Stack Development
+Focus      →  Software Development & Machine Learning
 Status     →  Open to Internships & Collaborations
 ```
 
 ---
 
-### Tech Stack
+## Technical Skills
 
-**Languages**
-
+### Languages and Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,mysql&theme=dark" alt="Languages and Databases" />
 </p>
 
-**Tools & Environment**
-
+### Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
----
+### Web Frameworks and Deployment
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditii0011&layout=donut&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="38%" />
-</div>
+### Tools and Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools and Environment" />
+</p>
