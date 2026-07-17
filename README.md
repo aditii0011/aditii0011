@@ -2,7 +2,7 @@
 
 # Aditi Verma
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=C%2B%2B+%7C+Python+%7C+SQL;Strengthening+Data+Structures+%26+Algorithms;Learning+Machine+Learning+and+AI;Turning+Logic+into+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=C%2B%2B+%7C+Python+%7C+SQL;Strengthening+Data+Structures+%26+Algorithms;Learning+AI+and+Machine+Learning;Turning+Logic+into+Software" alt="Typing SVG" />
 
 <p>
   <a href="https://aditiiverma.onrender.com" target="_blank">
