@@ -59,7 +59,6 @@ Status     →  Open to Internships & Collaborations
 ### GitHub Stats
  
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=aditii0011&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" alt="Aditi's GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=aditii0011&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="Aditi's GitHub Streak" width="48%" />
 </p>
 <p align="center">
